@@ -15,7 +15,9 @@ Workflow
 6. Calculate activity coefficients of all ionnic species.
 7.  Data Visualisation
     -Plot cations per core, by site (crest, mid-slope, lower-slope) and by solution added. Take a look at the shapes.  
-8. Change dataset to Acid Sulphate Soils 
-    -  
+    NEW DATA SET
+1. Change dataset to Acid Sulphate Soils 
+    - Isotherms - plot edge of River, Estuary and scrubland isotherms
+    - 
     
     
