@@ -12,9 +12,10 @@ Workflow
 3. Set up Git Hub for Synthesis Project
 4. Clone Git Hub on my computer
 5. Calculate Ionic Strength of all solutions
-
-
-
 6. Calculate activity coefficients of all ionnic species.
 7.  Data Visualisation
-    -Plot cations per core, by site (crest, mid-slope, lower-slope) and by solution added. Take a look at the shapes.    
+    -Plot cations per core, by site (crest, mid-slope, lower-slope) and by solution added. Take a look at the shapes.  
+8. Change dataset to Acid Sulphate Soils 
+    -  
+    
+    
